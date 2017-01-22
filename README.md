@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## About Bar Tack Consulting
 
-You can use the [editor on GitHub](https://github.com/madibell/bartackconsulting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bar Tack Consulting was founded in 2015 by [Madison](www.madibell.com) when she moved to Berlin, following nearly 8 years working at San Francisco based start ups, including [Nextdoor](www.nextdoor.com) and [Apartment List](www.apartmentlist.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bar Tack Consulting specalizes in product management for early and mid-stage start ups.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madibell/bartackconsulting.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The easiest way to reach us is by email: bartackconsulting @ gmail
